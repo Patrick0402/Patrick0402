@@ -1,14 +1,8 @@
 <h1 align="left">👋 Olá! Eu sou o Patrick :)</h1>
 
-###
-
 <p align="left">🎯 Desenvolvedor Backend com foco na plataforma .NET</p>
 
-###
-
 <h2 align="left">🛠️ Minha Stack</h2>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
@@ -32,23 +26,14 @@
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" />
 </div>
 
-
-###
-
 <h2 align="left">🎓 Formação</h2>
-
-###
 
 <p align="left">
 Tecnólogo em <strong>Análise e Desenvolvimento de Sistemas</strong>  
 <br>📍 FATEC Guaratinguetá – Conclusão prevista: 12/2025
 </p>
 
-###
-
 <h2 align="left">🚀 Sobre mim</h2>
-
-###
 
 <p align="left">
 Sou apaixonado por desenvolvimento backend e atualmente trabalho com C# e o ecossistema .NET, focando na construção de APIs robustas, bem estruturadas e de fácil manutenção. Tenho interesse em ampliar meu conhecimento para me tornar um desenvolvedor fullstack, investindo no meu aprendizado em Vue.js e outras tecnologias e frameworks frontend.
@@ -58,36 +43,9 @@ Busco expandir meus conhecimentos para além do desenvolvimento web, explorando 
 Sou entusiasta do mundo open source e acredito no poder do compartilhamento de conhecimento. Estou em constante aprendizado, sempre aberto a novas linguagens, frameworks e desafios que contribuam para minha evolução como profissional.
 </p>
 
-###
+## 🤝 Vamos nos conectar!
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-###
-<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Patrick0402&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick0402&theme=vue-dark" alt="GitHub Streak"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick0402&layout=compact&theme=vue-dark" alt="Top Langs" />
-
-</div>
-
-
-
-###
-
-<h2 align="left">🏆 Troféus do GitHub</h2>
-
-###
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Patrick0402&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
-###
-
-<h2 align="left">🤝 Vamos Conectar?</h2>
-
-###
+Se quiser bater um papo sobre desenvolvimento, trocar experiências ou apenas se conectar, estou à disposição!
 
 <a href="https://www.linkedin.com/in/bruno-patrick/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -96,9 +54,10 @@ Sou entusiasta do mundo open source e acredito no poder do compartilhamento de c
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-###
+---
 
-<br/>
+⭐ Obrigado por visitar meu perfil!  
+📂 Fique à vontade para explorar meus repositórios e projetos 🚀
 
-⭐ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e projetos.
+
 
